@@ -1,4 +1,3 @@
-# Blindness-
 # Kaggle-2019-Blindness-Detection
 
 10th-place solution code for https://www.kaggle.com/c/aptos2019-blindness-detection/overview.
